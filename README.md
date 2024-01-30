@@ -1,13 +1,17 @@
 # Simple Todo Manager in React.js
 ## A basic Todo Manager built using React.js to help you keep track of your tasks.
-```markdown
+
+
+
+
 
 
 ## Demo
+### Include a link to the live demo or screenshots to showcase your Todo Manager.
 
-Include a link to the live demo or screenshots to showcase your Todo Manager.
 ![Uploading Screenshot 2024-01-30 232851.png…]()
 ![Screenshot 2024-01-30 232851](https://github.com/Abhikhush28/TodoManager/assets/103246309/5aed0516-b4dd-4910-b22b-17c1c94f7711)
+```markdown
 
 ## Features
 
