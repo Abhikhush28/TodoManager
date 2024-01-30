@@ -1,28 +1,19 @@
-Certainly! Below is a simple template for a README.md file for your Todo Manager in React.js. You can customize it further based on your project structure and additional features.
-
+![Screenshot 2024-01-30 232851](https://github.com/Abhikhush28/TodoManager/assets/103246309/5aed0516-b4dd-4910-b22b-17c1c94f7711)# Simple Todo Manager in React.js
+## A basic Todo Manager built using React.js to help you keep track of your tasks.
 ```markdown
-# Simple Todo Manager in React.js
 
-A basic Todo Manager built using React.js to help you keep track of your tasks.
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
 Include a link to the live demo or screenshots to showcase your Todo Manager.
+![Uploading Screenshot 2024-01-30 232851.png…]()
 
 ## Features
 
 - **Add Task**: Easily add tasks to your todo list.
 - **Mark as Completed**: Mark tasks as completed when you finish them.
 - **Delete Task**: Remove tasks from your list.
+
 - **Responsive Design**: The application is designed to work well on various devices.
 
 ## Installation
@@ -65,9 +56,4 @@ If you'd like to contribute, please follow these steps:
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
-
-Remember to replace placeholders like `your-username` with your actual GitHub username and adjust the project-specific details accordingly. This template covers the basic sections you may want to include in your README file. Feel free to add more sections or modify it to better suit your project's needs.
