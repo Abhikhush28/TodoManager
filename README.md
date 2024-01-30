@@ -7,7 +7,7 @@
 
 
 ## Demo
-### Include a link to the live demo or screenshots to showcase your Todo Manager.
+### A link to the live screenshots to showcase your Todo Manager.
 
 ![Screenshot 2024-01-30 232851](https://github.com/Abhikhush28/TodoManager/assets/103246309/5aed0516-b4dd-4910-b22b-17c1c94f7711)
 ```markdown
